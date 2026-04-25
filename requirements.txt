@@ -1,2 +1,3 @@
 gunicorn
 PyGithub
+python-telegram-bot
